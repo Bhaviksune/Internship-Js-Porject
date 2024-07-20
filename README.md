@@ -1,1 +1,1 @@
-# Internship-Js-Porject
+# Internship-Js-Project
